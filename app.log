@@ -1,0 +1,350 @@
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+RAG chain is not initialized.
+BEGIN (implicit)
+PRAGMA main.table_info("user")
+[raw sql] ()
+PRAGMA main.table_info("patient")
+[raw sql] ()
+COMMIT
+RAG chain initialized successfully.
+Request options: {'method': 'post', 'url': '/openai/v1/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-33e32e32-a620-43b1-818f-8f83543db058', 'json_data': {'messages': [{'role': 'user', 'content': '\n    Tu es un assistant médical spécialisé dans la prévention du cancer de la prostate.\n    Réponds avec précision, pédagogie et bienveillance.\n    Si tu n’es pas sûr d’une réponse, indique-le clairement.\n\n    Question utilisateur : comment ffaire l\'autopalpation pour eviter e cancer de la prostate\n\n    Contexte (documents) :\n    L\'autopalpation des testicules permet de repérer une éventuelle grosseur, et d\'être pris en charge rapidement. Pour rappel, le cancer des\n\n« C\'est très important. Il faut que toutes les femmes le fassent régulièrement, devant un miroir, et consulter au moindre doute », insiste\n\nComments · 10 Habitudes Qui Détruisent Votre Prostate (Et Comment Les Éviter) | Dr. Camille Duranne · 5 habitudes quotidiennes qui protègent la\n\nL\'autopalpation est l\'outil principal en matière de dépistage. Cette technique consiste à examiner soi-même les testicules, à la recherche d\'une\n\nEt puis après, il y a l\'autopalpation, donc souvent avec les les ces trois doigts, le plat des doigts. Et donc L\'idée c\'est d\'aller palper toute\n\nComments ; 10 Habitudes Qui Détruisent Votre Prostate (Et Comment Les Éviter) | Dr. Camille Duranne. Dr. Camille Duranne · 34K views ; Managing an\n\n"C\'est évident, il faut se mettre un doigt dans le derrière. Le problème est que pour arriver à apprécier et savoir ce qu\'on sent, ce n\'est pas\n\nLe TR consiste pour le médecin à insérer délicatement un doigt dans votre rectum pour vérifier la présence de grosseurs ou d\'autres irrégularit\n\nDevant un miroir, il faut examiner les testicules l\'un après l\'autre en faisant rouler la glande entre le pouce et les quatre doigts. Les quatre\n\n    Réponse :\n    '}], 'model': 'openai/gpt-oss-120b', 'max_tokens': 1024, 'n': 1, 'reasoning_effort': None, 'reasoning_format': None, 'service_tier': 'on_demand', 'stop': None, 'stream': False, 'temperature': 0.5}}
+Sending HTTP Request: POST https://api.groq.com/openai/v1/chat/completions
+connect_tcp.started host='api.groq.com' port=443 local_address=None timeout=None socket_options=None
+connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x75498c494b90>
+start_tls.started ssl_context=<ssl.SSLContext object at 0x75498c6eb1d0> server_hostname='api.groq.com' timeout=None
+start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x75498c494740>
+send_request_headers.started request=<Request [b'POST']>
+send_request_headers.complete
+send_request_body.started request=<Request [b'POST']>
+send_request_body.complete
+receive_response_headers.started request=<Request [b'POST']>
+receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Nov 2025 15:36:46 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Cache-Control', b'private, max-age=0, no-store, no-cache, must-revalidate'), (b'Server', b'cloudflare'), (b'vary', b'Origin'), (b'x-groq-region', b'fra'), (b'x-ratelimit-limit-requests', b'1000'), (b'x-ratelimit-limit-tokens', b'8000'), (b'x-ratelimit-remaining-requests', b'999'), (b'x-ratelimit-remaining-tokens', b'7526'), (b'x-ratelimit-reset-requests', b'1m26.4s'), (b'x-ratelimit-reset-tokens', b'3.554999999s'), (b'x-request-id', b'req_01k9yxs9nvfnzahb7y5nzn7jdq'), (b'via', b'1.1 google'), (b'cf-cache-status', b'DYNAMIC'), (b'Content-Encoding', b'gzip'), (b'Set-Cookie', b'__cf_bm=0zPt27SWINLaghCVRA3RjESX9aJxfo.JkFziH7NLQOs-1763048203.9336035-1.0.1.1-C5YnsGGdCjwTOYN5_MHzQVxwGrcNB0wSKOibKFpiX3f65dk4VAEiW1LEeqL7FpoQGL_xbNJeZffXO5sXv.i8UyK4wkkwgREPMJTiZVBDahj7njmNBltgcLwieBRapofS; HttpOnly; Secure; Path=/; Domain=groq.com; Expires=Thu, 13 Nov 2025 16:06:46 GMT'), (b'CF-RAY', b'99df58aa9cfb86a3-MAD'), (b'alt-svc', b'h3=":443"; ma=86400')])
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+receive_response_body.started request=<Request [b'POST']>
+receive_response_body.complete
+response_closed.started
+response_closed.complete
+HTTP Response: POST https://api.groq.com/openai/v1/chat/completions "200 OK" Headers({'date': 'Thu, 13 Nov 2025 15:36:46 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate', 'server': 'cloudflare', 'vary': 'Origin', 'x-groq-region': 'fra', 'x-ratelimit-limit-requests': '1000', 'x-ratelimit-limit-tokens': '8000', 'x-ratelimit-remaining-requests': '999', 'x-ratelimit-remaining-tokens': '7526', 'x-ratelimit-reset-requests': '1m26.4s', 'x-ratelimit-reset-tokens': '3.554999999s', 'x-request-id': 'req_01k9yxs9nvfnzahb7y5nzn7jdq', 'via': '1.1 google', 'cf-cache-status': 'DYNAMIC', 'content-encoding': 'gzip', 'set-cookie': '__cf_bm=0zPt27SWINLaghCVRA3RjESX9aJxfo.JkFziH7NLQOs-1763048203.9336035-1.0.1.1-C5YnsGGdCjwTOYN5_MHzQVxwGrcNB0wSKOibKFpiX3f65dk4VAEiW1LEeqL7FpoQGL_xbNJeZffXO5sXv.i8UyK4wkkwgREPMJTiZVBDahj7njmNBltgcLwieBRapofS; HttpOnly; Secure; Path=/; Domain=groq.com; Expires=Thu, 13 Nov 2025 16:06:46 GMT', 'cf-ray': '99df58aa9cfb86a3-MAD', 'alt-svc': 'h3=":443"; ma=86400'})

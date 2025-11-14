@@ -1,350 +1,1275 @@
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-RAG chain is not initialized.
-BEGIN (implicit)
-PRAGMA main.table_info("user")
-[raw sql] ()
-PRAGMA main.table_info("patient")
-[raw sql] ()
-COMMIT
-RAG chain initialized successfully.
-Request options: {'method': 'post', 'url': '/openai/v1/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-33e32e32-a620-43b1-818f-8f83543db058', 'json_data': {'messages': [{'role': 'user', 'content': '\n    Tu es un assistant médical spécialisé dans la prévention du cancer de la prostate.\n    Réponds avec précision, pédagogie et bienveillance.\n    Si tu n’es pas sûr d’une réponse, indique-le clairement.\n\n    Question utilisateur : comment ffaire l\'autopalpation pour eviter e cancer de la prostate\n\n    Contexte (documents) :\n    L\'autopalpation des testicules permet de repérer une éventuelle grosseur, et d\'être pris en charge rapidement. Pour rappel, le cancer des\n\n« C\'est très important. Il faut que toutes les femmes le fassent régulièrement, devant un miroir, et consulter au moindre doute », insiste\n\nComments · 10 Habitudes Qui Détruisent Votre Prostate (Et Comment Les Éviter) | Dr. Camille Duranne · 5 habitudes quotidiennes qui protègent la\n\nL\'autopalpation est l\'outil principal en matière de dépistage. Cette technique consiste à examiner soi-même les testicules, à la recherche d\'une\n\nEt puis après, il y a l\'autopalpation, donc souvent avec les les ces trois doigts, le plat des doigts. Et donc L\'idée c\'est d\'aller palper toute\n\nComments ; 10 Habitudes Qui Détruisent Votre Prostate (Et Comment Les Éviter) | Dr. Camille Duranne. Dr. Camille Duranne · 34K views ; Managing an\n\n"C\'est évident, il faut se mettre un doigt dans le derrière. Le problème est que pour arriver à apprécier et savoir ce qu\'on sent, ce n\'est pas\n\nLe TR consiste pour le médecin à insérer délicatement un doigt dans votre rectum pour vérifier la présence de grosseurs ou d\'autres irrégularit\n\nDevant un miroir, il faut examiner les testicules l\'un après l\'autre en faisant rouler la glande entre le pouce et les quatre doigts. Les quatre\n\n    Réponse :\n    '}], 'model': 'openai/gpt-oss-120b', 'max_tokens': 1024, 'n': 1, 'reasoning_effort': None, 'reasoning_format': None, 'service_tier': 'on_demand', 'stop': None, 'stream': False, 'temperature': 0.5}}
-Sending HTTP Request: POST https://api.groq.com/openai/v1/chat/completions
-connect_tcp.started host='api.groq.com' port=443 local_address=None timeout=None socket_options=None
-connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x75498c494b90>
-start_tls.started ssl_context=<ssl.SSLContext object at 0x75498c6eb1d0> server_hostname='api.groq.com' timeout=None
-start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x75498c494740>
-send_request_headers.started request=<Request [b'POST']>
-send_request_headers.complete
-send_request_body.started request=<Request [b'POST']>
-send_request_body.complete
-receive_response_headers.started request=<Request [b'POST']>
-receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Nov 2025 15:36:46 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Cache-Control', b'private, max-age=0, no-store, no-cache, must-revalidate'), (b'Server', b'cloudflare'), (b'vary', b'Origin'), (b'x-groq-region', b'fra'), (b'x-ratelimit-limit-requests', b'1000'), (b'x-ratelimit-limit-tokens', b'8000'), (b'x-ratelimit-remaining-requests', b'999'), (b'x-ratelimit-remaining-tokens', b'7526'), (b'x-ratelimit-reset-requests', b'1m26.4s'), (b'x-ratelimit-reset-tokens', b'3.554999999s'), (b'x-request-id', b'req_01k9yxs9nvfnzahb7y5nzn7jdq'), (b'via', b'1.1 google'), (b'cf-cache-status', b'DYNAMIC'), (b'Content-Encoding', b'gzip'), (b'Set-Cookie', b'__cf_bm=0zPt27SWINLaghCVRA3RjESX9aJxfo.JkFziH7NLQOs-1763048203.9336035-1.0.1.1-C5YnsGGdCjwTOYN5_MHzQVxwGrcNB0wSKOibKFpiX3f65dk4VAEiW1LEeqL7FpoQGL_xbNJeZffXO5sXv.i8UyK4wkkwgREPMJTiZVBDahj7njmNBltgcLwieBRapofS; HttpOnly; Secure; Path=/; Domain=groq.com; Expires=Thu, 13 Nov 2025 16:06:46 GMT'), (b'CF-RAY', b'99df58aa9cfb86a3-MAD'), (b'alt-svc', b'h3=":443"; ma=86400')])
-HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-receive_response_body.started request=<Request [b'POST']>
-receive_response_body.complete
-response_closed.started
-response_closed.complete
-HTTP Response: POST https://api.groq.com/openai/v1/chat/completions "200 OK" Headers({'date': 'Thu, 13 Nov 2025 15:36:46 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate', 'server': 'cloudflare', 'vary': 'Origin', 'x-groq-region': 'fra', 'x-ratelimit-limit-requests': '1000', 'x-ratelimit-limit-tokens': '8000', 'x-ratelimit-remaining-requests': '999', 'x-ratelimit-remaining-tokens': '7526', 'x-ratelimit-reset-requests': '1m26.4s', 'x-ratelimit-reset-tokens': '3.554999999s', 'x-request-id': 'req_01k9yxs9nvfnzahb7y5nzn7jdq', 'via': '1.1 google', 'cf-cache-status': 'DYNAMIC', 'content-encoding': 'gzip', 'set-cookie': '__cf_bm=0zPt27SWINLaghCVRA3RjESX9aJxfo.JkFziH7NLQOs-1763048203.9336035-1.0.1.1-C5YnsGGdCjwTOYN5_MHzQVxwGrcNB0wSKOibKFpiX3f65dk4VAEiW1LEeqL7FpoQGL_xbNJeZffXO5sXv.i8UyK4wkkwgREPMJTiZVBDahj7njmNBltgcLwieBRapofS; HttpOnly; Secure; Path=/; Domain=groq.com; Expires=Thu, 13 Nov 2025 16:06:46 GMT', 'cf-ray': '99df58aa9cfb86a3-MAD', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-11-13 17:44:44,538 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:44:44,539 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:44:44,540 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:44:44,542 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:44:44,542 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:44:44,543 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:44:44,562 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:44:44,562 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:44:44,562 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:45:57,624 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:45:57,625 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:45:57,625 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:45:57,626 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:45:57,627 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:45:57,627 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:45:57,640 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:45:57,640 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:45:57,641 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:49:26,437 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:49:26,438 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:49:26,438 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:49:26,439 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:49:26,439 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:49:26,439 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:49:26,462 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:49:26,463 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: name 'Path' is not defined
+2025-11-13 17:50:03,686 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:50:03,688 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:50:03,688 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:03,689 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:50:03,690 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:03,690 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:50:03,711 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:50:03,711 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:03,712 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:17,425 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:50:17,426 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:50:17,426 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:17,427 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:50:17,427 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:17,427 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:50:17,440 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:50:17,440 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:17,441 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:20,463 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:50:20,463 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:50:20,463 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:20,464 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:50:20,464 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:20,465 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:50:20,475 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:50:20,476 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:20,476 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:45,764 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 17:50:45,764 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 17:50:45,764 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:45,765 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 17:50:45,766 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 17:50:45,766 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 17:50:45,779 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 17:50:45,780 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 17:50:45,780 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:05:26,327 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:05:26,329 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:05:26,329 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:05:26,330 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:05:26,330 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:05:26,331 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:05:26,345 [INFO]  BLUE WARRIORS: initilisation de rag
+2025-11-13 21:05:26,345 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:05:26,345 [ERROR]  BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:08:15,983 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:08:15,984 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:08:15,984 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:08:15,985 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:08:15,985 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:08:15,985 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:08:16,000 [INFO] BLUE WARRIORS: initilisation de rag
+2025-11-13 21:08:16,000 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:08:16,001 [ERROR] BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:08:19,531 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:08:19,532 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:08:19,532 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:08:19,533 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:08:19,534 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:08:19,535 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:08:19,552 [INFO] ==============BLUE WARRIORS: initilisation de rag
+2025-11-13 21:08:19,552 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:08:19,552 [ERROR] ==============BLUE WARRIORS: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:08:22,955 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:08:22,956 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:08:22,956 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:08:22,957 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:08:22,957 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:08:22,957 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:08:22,969 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:08:22,969 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:08:22,970 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:09:01,255 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:09:01,255 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:09:01,255 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:09:01,256 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:09:01,256 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:09:01,257 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:09:01,267 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:09:01,268 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:09:01,268 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:10:14,598 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:10:14,599 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:10:14,600 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:10:14,601 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:10:14,601 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:10:14,601 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:10:14,613 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:10:14,615 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:10:14,616 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:23,636 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:15:23,637 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:15:23,637 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:23,638 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:15:23,639 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:23,640 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:15:23,659 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:15:23,659 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:23,660 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:29,287 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:15:29,288 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:15:29,289 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:29,290 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:15:29,290 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:29,291 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:15:29,311 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:15:29,312 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:29,312 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:32,180 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:15:32,180 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:15:32,180 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:32,181 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:15:32,181 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:32,182 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:15:32,192 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:15:32,194 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:32,194 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:35,649 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:15:35,649 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:15:35,649 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:35,650 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:15:35,650 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:35,651 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:15:35,668 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:15:35,669 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:35,669 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:39,248 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:15:39,248 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:15:39,249 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:39,249 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:15:39,249 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:39,250 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:15:39,261 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:15:39,262 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:39,262 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:42,257 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:15:42,257 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:15:42,258 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:42,258 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:15:42,259 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:15:42,259 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:15:42,273 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:15:42,273 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:15:42,273 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:26:22,528 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 21:26:22,529 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 21:26:22,529 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:26:22,530 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 21:26:22,530 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 21:26:22,530 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 21:26:22,542 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 21:26:22,543 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 21:26:22,543 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 22:03:14,087 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:03:14,088 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:03:14,088 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:03:14,089 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:03:14,089 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:03:14,090 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:03:14,103 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:03:14,103 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 22:03:14,103 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 22:03:16,889 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:03:16,890 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:03:16,890 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:03:16,891 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:03:16,891 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:03:16,891 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:03:16,905 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:03:16,907 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:03:16,907 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:03:16,907 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No option 'api_groq_key' in section: 'API_KEYS'
+2025-11-13 22:03:27,914 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:03:27,915 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:03:27,915 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:03:27,916 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:03:27,916 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:03:27,917 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:03:27,927 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:03:27,928 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 22:03:27,928 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 22:04:08,758 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:04:08,759 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:04:08,759 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:04:08,759 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:04:08,760 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:04:08,760 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:04:08,770 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:04:08,771 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:04:08,771 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:04:08,771 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No option 'api_groq_key' in section: 'API_KEYS'
+2025-11-13 22:05:59,985 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:05:59,986 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:05:59,987 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:05:59,988 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:05:59,989 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:05:59,990 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:06:00,011 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:06:00,013 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:06:00,013 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:06:00,014 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No option 'api_key_' in section: 'API_KEYS'
+2025-11-13 22:06:02,944 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:06:02,944 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:06:02,944 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:06:02,945 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:06:02,945 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:06:02,946 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:06:02,960 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:06:02,960 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:06:02,961 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:06:02,961 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No section: 'PINECONE_ENVIRONMENT'
+2025-11-13 22:08:08,513 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:08,514 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:08,514 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:08,514 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:08,515 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:08,515 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:08,528 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:08,529 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:08,529 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:08:08,529 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No section: 'PINECONE_ENVIRONMENT'
+2025-11-13 22:08:18,431 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:18,432 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:18,432 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:18,432 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:18,433 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:18,433 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:18,443 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:18,443 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:18,443 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:08:18,444 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: RawConfigParser.get() missing 1 required positional argument: 'option'
+2025-11-13 22:08:32,517 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:32,517 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:32,517 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:32,518 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:32,518 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:32,519 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:32,533 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:32,534 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:32,534 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:08:32,534 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No section: 'PINECONE_ENVIRONMENT'
+2025-11-13 22:08:36,406 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:36,407 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:36,408 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:36,409 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:36,410 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:36,411 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:36,437 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:36,439 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:36,440 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:08:36,441 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No section: 'PINECONE_ENVIRONMENT'
+2025-11-13 22:08:42,684 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:42,684 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:42,685 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:42,686 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:42,686 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:42,686 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:42,702 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:42,702 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:42,703 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:08:42,703 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No section: 'PINECONE_ENVIRONMENT'
+2025-11-13 22:08:47,076 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:47,076 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:47,077 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:47,078 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:47,078 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:47,080 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:47,095 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:47,095 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:47,096 [ERROR] =========== PIPELINE RAG FINALE ===============: Les clés d'environnement en sont pas chargés.
+2025-11-13 22:08:47,096 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: No section: ''
+2025-11-13 22:08:49,835 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:08:49,836 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:08:49,836 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:49,837 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:08:49,838 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:08:49,838 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:08:49,851 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:08:49,851 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:08:49,851 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:08:49,852 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() missing 1 required positional argument: 'pinecone_api_key'
+2025-11-13 22:12:32,475 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:12:32,476 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:12:32,477 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:12:32,478 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:12:32,479 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:12:32,481 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:12:32,502 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:12:32,505 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:12:32,506 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:12:32,507 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() missing 1 required positional argument: 'pinecone_api_key'
+2025-11-13 22:12:47,396 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:12:47,397 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:12:47,397 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:12:47,397 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:12:47,398 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:12:47,398 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:12:47,411 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:12:47,411 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:12:47,412 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:12:47,412 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:12:47,412 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:13:33,819 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:13:33,820 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:13:33,821 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:13:33,821 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:13:33,822 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:13:33,822 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:13:33,832 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:13:33,833 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:13:33,833 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:13:33,833 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:13:33,834 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:14:19,574 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:14:19,575 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:14:19,575 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:14:19,576 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:14:19,576 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:14:19,576 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:14:19,586 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:14:19,587 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:14:19,587 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:14:19,587 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:14:19,588 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:44,799 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:17:44,800 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:17:44,801 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:44,802 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:17:44,802 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:44,804 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:17:44,827 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:17:44,828 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:17:44,828 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:17:44,829 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:44,829 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:48,898 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:17:48,900 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:17:48,902 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:48,903 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:17:48,903 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:48,904 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:17:48,925 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:17:48,926 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:17:48,926 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:17:48,926 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:48,926 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:51,804 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:17:51,805 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:17:51,805 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:51,806 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:17:51,806 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:51,806 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:17:51,819 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:17:51,819 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:17:51,820 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:17:51,820 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:51,820 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:54,762 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:17:54,763 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:17:54,764 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:54,764 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:17:54,765 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:17:54,765 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:17:54,777 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:17:54,778 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:17:54,778 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:17:54,778 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:17:54,778 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:19:49,197 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:19:49,197 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:19:49,197 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:19:49,198 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:19:49,198 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:19:49,199 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:19:49,212 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:19:49,212 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:19:49,213 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:19:49,213 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:19:49,213 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:19:56,151 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:19:56,152 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:19:56,153 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:19:56,154 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:19:56,155 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:19:56,156 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:19:56,188 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:19:56,190 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:19:56,191 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:19:56,192 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:19:56,192 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:19:59,380 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:19:59,380 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:19:59,381 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:19:59,382 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:19:59,382 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:19:59,383 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:19:59,395 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:19:59,396 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:19:59,397 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:19:59,397 [ERROR] ======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:19:59,397 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:23,983 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:20:23,983 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:20:23,984 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:23,984 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:20:23,984 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:23,985 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:20:23,996 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:20:23,996 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:20:23,997 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:20:23,997 [ERROR] |======RETRIEVER LOCAL BUILD===========: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:23,997 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:30,481 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:20:30,482 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:20:30,482 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:30,483 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:20:30,483 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:30,484 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:20:30,495 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:20:30,496 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:20:30,496 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:20:30,496 [ERROR] |======RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:30,496 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:44,201 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:20:44,201 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:20:44,201 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:44,202 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:20:44,202 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:44,202 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:20:44,216 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:20:44,217 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:20:44,217 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:20:44,217 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:44,217 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:46,963 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:20:46,964 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:20:46,964 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:46,965 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:20:46,965 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:20:46,965 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:20:46,979 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:20:46,979 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:20:46,979 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:20:46,980 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:20:46,980 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:39,654 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:24:39,654 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:24:39,654 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:39,655 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:24:39,655 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:39,656 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:24:39,667 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:24:39,668 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:24:39,668 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:24:39,668 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:39,668 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:43,682 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:24:43,682 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:24:43,683 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:43,683 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:24:43,683 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:43,684 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:24:43,697 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:24:43,698 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:24:43,698 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:24:43,698 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:43,698 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:47,788 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:24:47,790 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:24:47,791 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:47,793 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:24:47,793 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:47,794 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:24:47,815 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:24:47,816 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:24:47,816 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:24:47,817 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:47,817 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:50,704 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:24:50,704 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:24:50,705 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:50,706 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:24:50,706 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:24:50,706 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:24:50,717 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:24:50,718 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:24:50,718 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:24:50,718 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:24:50,718 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:25:03,972 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:25:03,972 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:25:03,972 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:25:03,973 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:25:03,973 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:25:03,973 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:25:03,988 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:25:03,988 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:25:03,988 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:25:03,989 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:25:03,989 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:25:22,992 [ERROR] ==============BLUE WARRIORS============: RAG chain is not initialized.
+2025-11-13 22:43:20,130 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:43:20,131 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:43:20,132 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:43:20,133 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:43:20,134 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:43:20,135 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:43:20,157 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:43:20,160 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:43:20,160 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:43:20,161 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:43:20,162 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:43:24,530 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:43:24,531 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:43:24,531 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:43:24,532 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:43:24,533 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:43:24,533 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:43:24,559 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:43:24,561 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:43:24,561 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:43:24,562 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:43:24,562 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:43:31,709 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:43:31,709 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:43:31,709 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:43:31,710 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:43:31,711 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:43:31,712 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:43:31,724 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:43:31,725 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:43:31,725 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:43:31,725 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:43:31,725 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:47:19,650 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:47:19,651 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:47:19,651 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:47:19,652 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:47:19,653 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:47:19,654 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:47:19,693 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:47:19,696 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:47:19,696 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:47:19,700 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:47:19,700 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:47:22,980 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:47:22,981 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:47:22,981 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:47:22,982 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:47:22,982 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:47:22,982 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:47:22,994 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:47:22,995 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:47:22,995 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:47:22,995 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:47:22,995 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:32,900 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:49:32,901 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:49:32,902 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:32,903 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:49:32,904 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:32,905 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:49:32,924 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:49:32,925 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:49:32,926 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:49:32,926 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:32,926 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:42,901 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:49:42,902 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:49:42,903 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:42,904 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:49:42,904 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:42,905 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:49:42,928 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:49:42,929 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:49:42,930 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:49:42,931 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:42,931 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:46,350 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:49:46,351 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:49:46,351 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:46,352 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:49:46,352 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:46,353 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:49:46,367 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:49:46,367 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:49:46,367 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:49:46,368 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:46,368 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:51,372 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:49:51,372 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:49:51,372 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:51,373 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:49:51,373 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:49:51,374 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:49:51,401 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:49:51,402 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:49:51,402 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:49:51,402 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:49:51,402 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:21,065 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:21,065 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:21,065 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:21,066 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:21,067 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:21,067 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:21,083 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:21,084 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:21,084 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:21,084 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:21,084 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:26,448 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:26,449 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:26,449 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:26,451 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:26,451 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:26,453 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:26,465 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:26,466 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:26,467 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:26,467 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:26,467 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:33,923 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:33,924 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:33,924 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:33,925 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:33,925 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:33,926 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:33,937 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:33,937 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:33,938 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:33,938 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:33,938 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:37,316 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:37,316 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:37,316 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:37,317 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:37,317 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:37,318 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:37,333 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:37,334 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:37,334 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:37,334 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:37,335 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:41,136 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:41,137 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:41,137 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:41,138 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:41,138 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:41,139 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:41,159 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:41,160 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:41,160 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:41,161 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:41,161 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:44,524 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:44,525 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:44,525 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:44,526 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:44,526 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:44,527 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:44,550 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:44,551 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:44,552 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:44,552 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:44,552 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:49,939 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:49,940 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:49,941 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:49,943 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:49,944 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:49,945 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:49,971 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:49,973 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:49,974 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:49,976 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:49,976 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:56,777 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:51:56,780 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:51:56,781 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:56,783 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:51:56,787 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:51:56,788 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:51:56,844 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:51:56,845 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:51:56,846 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:51:56,847 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:51:56,847 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:52:00,285 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:52:00,286 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:52:00,287 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:52:00,288 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:52:00,288 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:52:00,288 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:52:00,307 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:52:00,308 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:52:00,309 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:52:00,309 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:52:00,310 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:52:03,500 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:52:03,500 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:52:03,500 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:52:03,501 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:52:03,501 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:52:03,502 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:52:03,514 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:52:03,515 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:52:03,515 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:52:03,515 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:52:03,516 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:52:15,835 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:52:15,836 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:52:15,836 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:52:15,837 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:52:15,837 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:52:15,837 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:52:15,850 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 22:52:15,850 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 22:52:15,850 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 22:52:15,851 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:52:15,851 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 22:55:15,278 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:15,281 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:15,282 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:15,284 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:15,286 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:15,287 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:19,890 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:19,891 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:19,891 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:19,892 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:19,893 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:19,894 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:23,965 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:23,969 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:23,969 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:23,970 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:23,971 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:23,972 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:28,406 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:28,406 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:28,407 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:28,408 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:28,409 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:28,410 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:32,703 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:32,704 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:32,704 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:32,705 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:32,705 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:32,705 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:36,622 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:36,622 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:36,623 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:36,623 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:36,623 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:36,624 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:40,041 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:40,041 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:40,042 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:40,044 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:40,044 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:40,045 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:46,774 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:46,776 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:46,777 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:46,779 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:46,780 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:46,783 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:51,030 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:51,031 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:51,032 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:51,034 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:51,035 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:51,036 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:55:54,220 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:55:54,221 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:55:54,221 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:54,222 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:55:54,223 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:55:54,224 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:56:56,444 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:56:56,444 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:56:56,445 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:56:56,446 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:56:56,446 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:56:56,447 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:57:46,698 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:57:46,699 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:57:46,702 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:57:46,703 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:57:46,707 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:57:46,708 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:57:49,987 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:57:49,988 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:57:49,988 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:57:49,989 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:57:49,989 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:57:49,989 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:26,689 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:26,690 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:26,690 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:26,691 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:26,691 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:26,692 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:32,526 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:32,527 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:32,527 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:32,528 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:32,528 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:32,529 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:37,085 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:37,086 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:37,086 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:37,087 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:37,087 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:37,087 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:41,520 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:41,524 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:41,524 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:41,525 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:41,526 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:41,530 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:45,867 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:45,867 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:45,867 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:45,868 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:45,868 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:45,868 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:50,095 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:50,095 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:50,095 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:50,096 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:50,096 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:50,097 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:58:55,030 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:58:55,034 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:58:55,035 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:55,046 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:58:55,046 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:58:55,047 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:01,304 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:01,304 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:01,304 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:01,305 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:01,305 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:01,306 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:05,022 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:05,022 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:05,022 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:05,023 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:05,023 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:05,024 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:09,908 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:09,909 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:09,910 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:09,912 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:09,913 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:09,914 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:16,651 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:16,652 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:16,652 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:16,653 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:16,653 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:16,654 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:20,185 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:20,185 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:20,186 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:20,186 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:20,187 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:20,187 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:25,311 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:25,311 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:25,312 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:25,312 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:25,313 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:25,313 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:45,585 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:45,586 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:45,586 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:45,586 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:45,586 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:45,587 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 22:59:48,690 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 22:59:48,690 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 22:59:48,691 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:48,692 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 22:59:48,693 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 22:59:48,693 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:00:38,262 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:00:38,263 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:00:38,263 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:00:38,264 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:00:38,264 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:00:38,264 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:00:41,595 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:00:41,597 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:00:41,598 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:00:41,601 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:00:41,602 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:00:41,603 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:01:32,127 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:01:32,127 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:01:32,127 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:01:32,128 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:01:32,128 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:01:32,128 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:01:35,045 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:01:35,046 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:01:35,046 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:01:35,047 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:01:35,048 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:01:35,048 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:01:35,061 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:01:35,062 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: [Errno 2] No such file or directory: '/home/donerick/ProstaCareAI/backend/src/config.ini'
+2025-11-13 23:06:13,862 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:06:13,862 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:06:13,862 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:06:13,863 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:06:13,863 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:06:13,864 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:06:13,876 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:06:13,877 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 23:06:13,877 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 23:09:24,720 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:09:24,721 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:09:24,721 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:09:24,722 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:09:24,722 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:09:24,722 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:09:24,736 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:09:24,736 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: [Errno 2] No such file or directory: '/home/donerick/ProstaCareAI/backend/src/rag_engine/../../../ config.ini'
+2025-11-13 23:09:27,541 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:09:27,542 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:09:27,542 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:09:27,542 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:09:27,543 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:09:27,543 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:09:27,555 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:09:27,555 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: [Errno 2] No such file or directory: '/home/donerick/ProstaCareAI/backend/src/rag_engine/../../../ config.ini'
+2025-11-13 23:09:56,846 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:09:56,847 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:09:56,847 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:09:56,847 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:09:56,848 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:09:56,848 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:09:56,857 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:09:56,858 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: name 'config_path' is not defined
+2025-11-13 23:09:56,858 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: name 'config_path' is not defined
+2025-11-13 23:10:24,037 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:10:24,037 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:10:24,037 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:10:24,038 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:10:24,038 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:10:24,038 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:10:24,054 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:10:24,055 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: name 'config_path' is not defined
+2025-11-13 23:10:24,055 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: name 'config_path' is not defined
+2025-11-13 23:10:27,008 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:10:27,008 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:10:27,008 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:10:27,010 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:10:27,010 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:10:27,011 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:10:27,034 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:10:27,035 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 23:10:27,035 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: Le fichier config.ini n'a pas pu être lu ou est vide.
+2025-11-13 23:11:44,521 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:11:44,521 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:11:44,522 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:11:44,522 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:11:44,522 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:11:44,523 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:11:44,541 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:11:44,541 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:11:44,541 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:11:44,542 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:11:44,542 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:12:03,887 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:12:03,888 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:12:03,888 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:12:03,889 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:12:03,889 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:12:03,890 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:12:03,901 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:12:03,902 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:12:03,902 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:12:03,902 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:12:03,902 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:03,087 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:19:03,087 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:19:03,088 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:03,089 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:19:03,089 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:03,090 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:19:03,115 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:19:03,117 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:19:03,117 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:19:03,118 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:03,118 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:06,944 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:19:06,945 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:19:06,946 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:06,946 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:19:06,947 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:06,947 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:19:06,964 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:19:06,965 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:19:06,966 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:19:06,966 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:06,966 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:10,879 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:19:10,880 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:19:10,880 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:10,881 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:19:10,881 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:10,881 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:19:10,899 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:19:10,899 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:19:10,899 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:19:10,900 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:10,900 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:13,875 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:19:13,876 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:19:13,876 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:13,876 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:19:13,877 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:13,877 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:19:13,891 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:19:13,892 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:19:13,892 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:19:13,892 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:13,892 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:27,744 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:19:27,745 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:19:27,745 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:27,746 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:19:27,746 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:27,746 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:19:27,759 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:19:27,759 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:19:27,760 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:19:27,760 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:27,760 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:33,526 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:19:33,527 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:19:33,527 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:33,528 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:19:33,528 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:19:33,528 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:19:33,539 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:19:33,540 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:19:33,540 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:19:33,540 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:19:33,540 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: BaseModel.__init__() takes 1 positional argument but 2 were given
+2025-11-13 23:56:40,166 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:56:40,167 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:56:40,167 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:40,168 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:56:40,168 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:40,168 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:56:40,178 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:56:40,179 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:56:40,179 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:56:40,180 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() got an unexpected keyword argument 'emdedding_model_name'
+2025-11-13 23:56:46,598 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:56:46,599 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:56:46,599 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:46,599 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:56:46,600 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:46,600 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:56:46,612 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:56:46,613 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:56:46,613 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:56:46,613 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() got an unexpected keyword argument 'emdedding_model_name'
+2025-11-13 23:56:50,620 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:56:50,620 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:56:50,621 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:50,622 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:56:50,622 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:50,623 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:56:50,645 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:56:50,645 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:56:50,646 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:56:50,646 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() got an unexpected keyword argument 'emdedding_model_name'
+2025-11-13 23:56:58,510 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:56:58,511 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:56:58,511 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:58,512 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:56:58,512 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:56:58,512 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:56:58,526 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:56:58,527 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:56:58,527 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:56:58,527 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() got an unexpected keyword argument 'emdedding_model_name'
+2025-11-13 23:57:00,919 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:57:00,920 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:57:00,920 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:57:00,920 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:57:00,921 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:57:00,921 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:57:00,931 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:57:00,931 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:57:00,932 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:57:00,932 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: build_retriever_local() got an unexpected keyword argument 'emdedding_model_name'
+2025-11-13 23:58:57,042 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-13 23:58:57,042 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-13 23:58:57,042 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:58:57,043 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-13 23:58:57,043 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-13 23:58:57,044 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-13 23:58:57,054 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-13 23:58:57,055 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-13 23:58:57,055 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-13 23:59:02,963 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2025-04', 'x-cloud-trace-context': 'c9a9d126d76e091979102f1a91a53c2e', 'date': 'Thu, 13 Nov 2025 22:59:02 GMT', 'server': 'Google Frontend', 'Content-Length': '91', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"NOT_FOUND","message":"Resource prostacare-index not found"},"status":404}
+
+2025-11-13 23:59:02,964 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2025-04', 'x-cloud-trace-context': 'c9a9d126d76e091979102f1a91a53c2e', 'date': 'Thu, 13 Nov 2025 22:59:02 GMT', 'server': 'Google Frontend', 'Content-Length': '91', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"NOT_FOUND","message":"Resource prostacare-index not found"},"status":404}
+
+2025-11-14 00:02:44,840 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:02:44,841 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:02:44,841 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:02:44,842 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:02:44,842 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:02:44,843 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:02:44,855 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:02:44,855 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:02:44,856 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:05:00,186 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x713ea8a39310>, 'Connection to api.pinecone.io timed out. (connect timeout=None)')': /models?type=embed
+2025-11-14 00:05:25,879 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a39490>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:05:46,966 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a395e0>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:06:09,206 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a39730>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:06:33,251 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a39880>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:06:53,266 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: HTTPSConnectionPool(host='api.pinecone.io', port=443): Max retries exceeded with url: /models?type=embed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a399d0>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)"))
+2025-11-14 00:06:53,267 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: HTTPSConnectionPool(host='api.pinecone.io', port=443): Max retries exceeded with url: /models?type=embed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a399d0>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)"))
+2025-11-14 00:16:05,342 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:16:05,342 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:16:25,423 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a9e720>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:16:46,152 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a9eb10>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:17:07,373 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x713ea8a9efc0>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-14 00:17:23,999 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: "CustomEnsembleRetriever" object has no field "retriever_local"
+2025-11-14 00:17:23,999 [ERROR] ==============BLUE WARRIORS============: RAG chain is not initialized.
+2025-11-14 00:44:44,541 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:44:44,542 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:44:44,543 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:44:44,543 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:44:44,544 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:44:44,544 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:44:44,554 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:44:44,555 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:44:44,555 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:44:46,490 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:45:02,383 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:45:02,384 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:45:03,213 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:45:03,213 [ERROR] ==============BLUE WARRIORS============: RAG chain is not initialized.
+2025-11-14 00:49:34,360 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:49:34,361 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:49:34,361 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:34,361 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:49:34,362 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:34,362 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:49:34,376 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:49:34,376 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:49:34,377 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:49:37,405 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:49:41,373 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:49:41,374 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:49:41,374 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:41,374 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:49:41,374 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:41,375 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:49:41,385 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:49:41,386 [CRITICAL] =========== PIPELINE RAG FINALE ===============: Erreur lors de la lecture du fichier de configuration: name 'config' is not defined
+2025-11-14 00:49:41,386 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: name 'config' is not defined
+2025-11-14 00:49:49,588 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:49:49,588 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:49:49,588 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:49,589 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:49:49,589 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:49,590 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:49:49,601 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:49:49,602 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:49:49,602 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:49:51,485 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:49:54,232 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:49:54,232 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:49:54,233 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:54,234 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:49:54,234 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:49:54,234 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:49:54,246 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:49:54,246 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:49:54,247 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:49:58,426 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:50:16,742 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:50:16,742 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:50:16,743 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:50:16,743 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:50:16,744 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:50:16,744 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:50:16,758 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:50:16,758 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:50:16,759 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:50:20,567 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:50:33,342 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:50:33,343 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:50:34,058 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:50:34,059 [ERROR] ==============BLUE WARRIORS============: RAG chain is not initialized.
+2025-11-14 00:51:55,484 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:51:55,484 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:51:55,485 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:51:55,485 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:51:55,485 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:51:55,486 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:51:55,496 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:51:55,496 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:51:55,496 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:51:57,361 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: name 'EnsembleRetriever' is not defined
+2025-11-14 00:52:00,230 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:52:00,230 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:52:00,231 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:52:00,231 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:52:00,231 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:52:00,232 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:52:00,243 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:52:00,243 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:52:00,244 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:52:01,912 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:53:16,182 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:53:16,182 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:53:17,769 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:53:17,769 [ERROR] ==============BLUE WARRIORS============: RAG chain is not initialized.
+2025-11-14 00:56:19,134 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-14 00:56:19,135 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-14 00:56:19,135 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:56:19,136 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-14 00:56:19,136 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-14 00:56:19,137 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-14 00:56:19,152 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-14 00:56:19,152 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-14 00:56:19,153 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-14 00:56:20,935 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-14 00:56:33,585 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

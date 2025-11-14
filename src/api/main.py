@@ -1,20 +1,19 @@
 from fastapi import FastAPI, APIRouter, Depends, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from sqlmodel import Session, select
-from src.database.connection import get_session, engine, SessionDeep
+from src.database.connection import SessionDeep
 from src.database.init_db import create_tables_db
 from src.database.user import User, Patient
 from src.schemas.schemas_model import UserCreate, UserRead, Patient, Question
 from src.rag_engine.pipeline_final import get_rag_chain
+from src.utils.logging import setup_logging
 import os, logging, threading
 
 #==================INITIALISATION DES LOGGINGS ===========
-
-logging.basicConfig(level=1, filename="app.log", format="")
-
+setup_logging()
+logger= logging.getLogger("==============BLUE WARRIORS============")
 # ====================== FONCTION D'INITIALISATION DE LA CHAINE RAG=============
-RAG_CHAIN=None
-RAG_ERROR = None
+RAG_CHAIN, RAG_ERROR = None, None
 
 def initial_rag_chain():
     """
@@ -23,10 +22,10 @@ def initial_rag_chain():
     global RAG_CHAIN, RAG_ERROR
     try:
         RAG_CHAIN = get_rag_chain()
-        logging.info("RAG chain initialized successfully.")
+        logger.info("RAG chain initialized successfully.")
     except Exception as e:
-        RAG_ERROR = e
-        logging.error(f"Error initializing RAG chain: {e}")
+        RAG_ERROR = str(e)
+        logger.error(f"Error initializing RAG chain: {e}")
     
 
 #======================== CREATION DE L'APPLICATION PRINCIPALE =================
@@ -55,7 +54,13 @@ app.add_middleware(
     allow_headers=["*"],
 )
 create_tables_db()
-initial_rag_chain()
+
+@app.on_event(event_type="startup")
+def startup_event():
+    logger.info(msg="initilisation de rag")
+    initial_rag_chain()
+    
+    
 # =================== UTILISATION DE ROUTEUR ==============
 router = APIRouter()
 
@@ -114,24 +119,24 @@ async def list_patients(db: SessionDeep):
             response_model_exclude = {'groupe_sanguin', "chronic_disease"}
             )
 async def get_patient_id(id_patient: str, db: SessionDeep):
-    patient_id = db.get(Patient, patient_id)
+    patient_id = db.get(Patient, id_patient)
     if not patient_id:
           raise HTTPException(status_code=404, detail="patient not found")
     else:
         return patient_id
   
-        
-        
-
+    
 @router.post("/ask/", tags=["RAG Chatbot"])
 def ask_question(question: Question):
     """Endpoint principal du chatbot RAG."""
     
     global RAG_CHAIN, RAG_ERROR
     
+    #RAG_CHAIN = initial_rag_chain()
+    
     """Je verifie d'abord si la chaine RAG est initialisée correctement"""
     if RAG_CHAIN is None:
-        logging.error("RAG chain is not initialized.")
+        logger.error("RAG chain is not initialized.")
         raise HTTPException(status_code=500, detail="RAG chain is not initialized.")
     
     try:
@@ -150,7 +155,7 @@ def ask_question(question: Question):
         }
 
     except Exception as e:
-        logging.error(f"Error during RAG chain invocation: {e}")
+        logger.error(f"Error during RAG chain invocation: {e}")
         raise HTTPException(status_code=500, detail="Error processing the request.")
  
 app.include_router(router, prefix="/api/v1")

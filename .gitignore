@@ -1,0 +1,15 @@
+/test.db
+env
+test.db
+tests
+*.log
+.DS_Store
+node_modules
+.env
+env.local
+.vscode
+.idea
+dist
+__pycache__/
+config.ini
+

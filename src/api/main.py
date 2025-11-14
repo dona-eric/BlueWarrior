@@ -12,6 +12,8 @@ import os, logging, threading
 #==================INITIALISATION DES LOGGINGS ===========
 setup_logging()
 logger= logging.getLogger("==============BLUE WARRIORS============")
+
+
 # ====================== FONCTION D'INITIALISATION DE LA CHAINE RAG=============
 RAG_CHAIN, RAG_ERROR = None, None
 
@@ -54,6 +56,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 create_tables_db()
+#================ FONCTION POUR L'APPEL DE RAG ENGINE ===========
 
 @app.on_event(event_type="startup")
 def startup_event():
@@ -65,6 +68,7 @@ def startup_event():
 router = APIRouter()
 
 
+#======LES ROUTES ==========
 @router.get("/", tags=["Root"])
 async def root():
     return {"message": "Welcome on BlueWarriors"}
@@ -86,6 +90,17 @@ async def create_user(user: UserCreate,  db: SessionDeep):
 
 @router.post('/patient/', response_model=Patient, tags=['Patient'])
 async def  create_patient(patient: Patient, db: SessionDeep):
+    """
+    Stocke les informations et/ou antécédents médicaux des patients(users)
+    souffrant ou non du cancer de la prostate pour faire une prédiction ML
+
+    Args:
+        patient (Patient): une classe de schema qui stocke les infos users
+        db (SessionDeep): une session de conexion àla DB
+
+    Returns:
+        db_patient: une table de base de données pour enregistrer les infos users
+    """
     db_patient = Patient(
         name=patient.name,
         surname = patient.surname,

@@ -10,6 +10,15 @@ env.local
 .vscode
 .idea
 dist
-__pycache__/
 config.ini
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.sqlite
+*.log
+__pycache__/
+.pytest_cache/
+.coverage
 

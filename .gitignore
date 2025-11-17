@@ -1,4 +1,3 @@
-/test.db
 env
 test.db
 tests
@@ -21,4 +20,5 @@ config.ini
 __pycache__/
 .pytest_cache/
 .coverage
+
 

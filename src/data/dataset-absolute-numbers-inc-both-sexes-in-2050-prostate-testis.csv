@@ -1,0 +1,43 @@
+Cancer id,Cancer label,Population id,Population,Sex,Type,Cases base in 2022,Year,Prediction,Change in number of cases,Change in number of cases due to population,Change in number of cases due to risk
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2022,106189,0,0,0
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2025,114103,7914,7.4527,0
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2030,137927,31738,29.8882,0
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2035,166735,60546,57.0172,0
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2040,201265,95076,89.5347,0
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2045,241945,135756,127.8438,0
+"27,28",Prostate; Testis,903,Africa,0,0,106189,2050,288624,182435,171.8022,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2022,239635,0,0,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2025,253124,13489,5.629,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2030,294976,55341,23.0939,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2035,340216,100581,41.9726,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2040,387834,148199,61.8436,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2045,436906,197271,82.3214,0
+"27,28",Prostate; Testis,904,Latin America and the Caribbean,0,0,239635,2050,486428,246793,102.987,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2022,266328,0,0,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2025,283380,17052,6.4026,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2030,304211,37883,14.2242,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2035,319077,52749,19.806,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2040,330858,64530,24.2295,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2045,342821,76493,28.7214,0
+"27,28",Prostate; Testis,905,Northern America,0,0,266328,2050,356738,90410,33.9469,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2022,497081,0,0,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2025,512754,15673,3.153,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2030,553501,56420,11.3503,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2035,586931,89850,18.0755,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2040,614223,117142,23.566,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2045,634981,137900,27.742,0
+"27,28",Prostate; Testis,908,Europe,0,0,497081,2050,648954,151873,30.553,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2022,24849,0,0,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2025,27062,2213,8.9058,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2030,29997,5148,20.7171,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2035,32759,7910,31.8323,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2040,35483,10634,42.7945,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2045,38293,13444,54.1028,0
+"27,28",Prostate; Testis,909,Oceania,0,0,24849,2050,41261,16412,66.0469,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2022,405812,0,0,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2025,434500,28688,7.0693,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2030,520063,114251,28.1537,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2035,613020,207208,51.0601,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2040,708766,302954,74.6538,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2045,803344,397532,97.9596,0
+"27,28",Prostate; Testis,935,Asia,0,0,405812,2050,893296,487484,120.1256,0

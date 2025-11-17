@@ -1,4 +1,4 @@
-# src/rag_engine/pipeline_finak.py
+# src/rag_engine/pipeline_final.py
 import os, logging, dotenv, pathlib
 from typing import List
 from pathlib import Path
@@ -23,7 +23,7 @@ def get_config() -> ConfigParser:
     """Lit le fichier config.ini."""
     
     config = ConfigParser()
-    base_dir = Path(__file__).resolve().parent.parent.parent.parent
+    base_dir = Path(__file__).resolve().parent.parent.parent
     config_path = base_dir / 'config.ini'
     try:
         # Lire le fichier dans le répertoire courant
@@ -37,7 +37,7 @@ def get_config() -> ConfigParser:
         raise
 
 # ====================================================================
-#  CLASSE DE RETRIEVER MANUEL POUR COMBINER LES DEUX RETRIEVERS
+# CLASSE DE RETRIEVER MANUEL POUR COMBINER LES DEUX RETRIEVERS
 # ====================================================================
 class CustomEnsembleRetriever(BaseRetriever):
     """

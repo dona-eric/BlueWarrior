@@ -7190,3 +7190,31 @@ HTTP response body: {"error":{"code":"NOT_FOUND","message":"Resource prostacare-
 2025-11-17 12:04:07,220 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7bababc51a30>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
 2025-11-17 12:04:07,224 [ERROR] |=========RETRIEVER LOCAL BUILD===========|: Erreur lors de la création du retriever local: HTTPSConnectionPool(host='api.pinecone.io', port=443): Max retries exceeded with url: /models?type=embed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7bababc51b80>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)"))
 2025-11-17 12:04:07,224 [ERROR] ==============BLUE WARRIORS============: Error initializing RAG chain: HTTPSConnectionPool(host='api.pinecone.io', port=443): Max retries exceeded with url: /models?type=embed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7bababc51b80>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)"))
+2025-11-17 14:31:45,510 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-17 14:31:45,510 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-17 14:31:45,511 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-17 14:31:45,512 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-17 14:31:45,515 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-17 14:31:45,516 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-17 14:31:45,539 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-17 14:31:45,541 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-17 14:31:45,542 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-17 14:31:56,338 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-17 14:33:23,914 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 15:36:56,926 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 22:16:40,443 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2025-11-17 22:16:40,444 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("user")
+2025-11-17 22:16:40,444 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-17 22:16:40,445 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("patient")
+2025-11-17 22:16:40,445 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2025-11-17 22:16:40,446 [INFO] sqlalchemy.engine.Engine: COMMIT
+2025-11-17 22:16:40,459 [INFO] ==============BLUE WARRIORS============: initilisation de rag
+2025-11-17 22:16:40,460 [INFO] =========== PIPELINE RAG FINALE ===============: Configuration lue avec succès depuis config.ini.
+2025-11-17 22:16:40,460 [INFO] =========== PIPELINE RAG FINALE ===============: Les environnements sont chargés avec succès
+2025-11-17 22:17:00,570 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7480b1239250>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-17 22:17:21,115 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7480b1239430>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-17 22:17:32,132 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7480b1239580>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-17 22:17:34,245 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7480b12396d0>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-17 22:17:38,366 [WARNING] urllib3.connectionpool: Retrying (JitterRetry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7480b1239820>: Failed to resolve 'api.pinecone.io' ([Errno -3] Temporary failure in name resolution)")': /models?type=embed
+2025-11-17 22:17:56,783 [INFO] ==============BLUE WARRIORS============: RAG chain initialized successfully.
+2025-11-17 22:18:21,267 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

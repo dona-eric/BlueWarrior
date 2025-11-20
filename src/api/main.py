@@ -69,9 +69,10 @@ router = APIRouter()
 
 
 #======LES ROUTES ==========
-@router.get("/kaithhealthcheck", tags=["Health"])
+@router.get("/kaithheathcheck", tags=["Health"])
 async def health_check():
     return {"status": "ok"}
+
 
 @router.get("/", tags=["Root"])
 async def root():

@@ -69,6 +69,10 @@ router = APIRouter()
 
 
 #======LES ROUTES ==========
+@router.get("/health", tags=["Health"])
+async def health_check():
+    return {"status": "ok"}
+
 @router.get("/", tags=["Root"])
 async def root():
     return {"message": "Welcome on BlueWarriors"}

@@ -75,35 +75,29 @@ class CustomEnsembleRetriever(BaseRetriever):
         
         return list(unique_docs.values())
 
+def get_env_or_config(config, section, key):
+    """Retourne la valeur depuis l'environnement si présente, sinon depuis config.ini"""
+    return os.environ.get(key) or config.get(section, key, fallback=None)
 
 def get_rag_chain():
 
-    # config
     config = get_config()
-    
-    """
-    Chargement des ressources d'environnement .env
 
-    Returns:
-        _type_: les fichier .env de pinecome et des api de groq
-    """
-    try :
-        PINECONE_API_KEY = config.get("DATABASE", "PINECONE_API_KEY")
-        INDEX_NAME = config.get("DATABASE", "INDEX_NAME")
-        EMBEDDING_MODEL_NAME = config.get("DATABASE", "EMBEDDING_MODEL_NAME")
-        GROQ_API_KEY = config.get("API_KEYS", "API_KEY_GROQ")
-        LLM_MODEL_NAME = config.get("LLM", "LLM_MODEL_NAME")
-        PINECONE_ENVIRONMENT = config.get("DATABASE","PINECONE_ENVIRONMENT")
-        TAVILY_API_KEY = config.get("API_KEYS", "TAVILY_API_KEY")
-        HOST = config.get("DATABASE", "HOST")
-        TEMPERATURE = config.getfloat("LLM", "TEMPERATURE")
-        
-        logger.info(msg="Les environnements sont chargés avec succès")
-        
+    try:
+        PINECONE_API_KEY = get_env_or_config(config, "DATABASE", "PINECONE_API_KEY")
+        INDEX_NAME = get_env_or_config(config, "DATABASE", "INDEX_NAME")
+        EMBEDDING_MODEL_NAME = get_env_or_config(config, "DATABASE", "EMBEDDING_MODEL_NAME")
+        GROQ_API_KEY = get_env_or_config(config, "API_KEYS", "API_KEY_GROQ")
+        LLM_MODEL_NAME = get_env_or_config(config, "LLM", "LLM_MODEL_NAME")
+        PINECONE_ENVIRONMENT = get_env_or_config(config, "DATABASE", "PINECONE_ENVIRONMENT")
+        TAVILY_API_KEY = get_env_or_config(config, "API_KEYS", "TAVILY_API_KEY")
+        HOST = get_env_or_config(config, "DATABASE", "HOST")
+        TEMPERATURE = float(get_env_or_config(config, "LLM", "TEMPERATURE"))
+
+        logger.info("Les environnements sont chargés avec succès")
     except Exception as e:
-        logger.error(msg="Les clés d'environnement en sont pas chargés.")
+        logger.error("Les clés d'environnement ne sont pas chargées.")
         raise e
-
     """
         Initialisation du retrievers local et web
     """

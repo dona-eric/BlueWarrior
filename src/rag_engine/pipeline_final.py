@@ -95,7 +95,7 @@ def get_rag_chain():
         PINECONE_ENVIRONMENT = os.getenv("PINECONE_ENVIRONMENT")
         TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
         HOST = os.getenv("HOST")
-        TEMPERATURE = os.getenv("TEMPERATURE")
+        TEMPERATURE = float(os.getenv("TEMPERATURE"))
 
         logger.info("Les environnements sont chargés avec succès")
     except Exception as e:

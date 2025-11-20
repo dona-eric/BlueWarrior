@@ -13,6 +13,9 @@ from langchain_core.documents import Document
 from langchain_groq import ChatGroq
 from pinecone import Pinecone
 from configparser import ConfigParser
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 logger = logging.getLogger("=========== PIPELINE RAG FINALE ===============")
@@ -81,18 +84,18 @@ def get_env_or_config(config, section, key):
 
 def get_rag_chain():
 
-    config = get_config()
+    #config = get_config()
 
     try:
-        PINECONE_API_KEY = get_env_or_config(config, "DATABASE", "PINECONE_API_KEY")
-        INDEX_NAME = get_env_or_config(config, "DATABASE", "INDEX_NAME")
-        EMBEDDING_MODEL_NAME = get_env_or_config(config, "DATABASE", "EMBEDDING_MODEL_NAME")
-        GROQ_API_KEY = get_env_or_config(config, "API_KEYS", "API_KEY_GROQ")
-        LLM_MODEL_NAME = get_env_or_config(config, "LLM", "LLM_MODEL_NAME")
-        PINECONE_ENVIRONMENT = get_env_or_config(config, "DATABASE", "PINECONE_ENVIRONMENT")
-        TAVILY_API_KEY = get_env_or_config(config, "API_KEYS", "TAVILY_API_KEY")
-        HOST = get_env_or_config(config, "DATABASE", "HOST")
-        TEMPERATURE = float(get_env_or_config(config, "LLM", "TEMPERATURE"))
+        PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+        INDEX_NAME = os.getenv("INDEX_NAME")
+        EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME")
+        GROQ_API_KEY = os.getenv("API_GROQ_KEY")
+        LLM_MODEL_NAME = os.getenv("LLM_MODEL_NAME")
+        PINECONE_ENVIRONMENT = os.getenv("PINECONE_ENVIRONMENT")
+        TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
+        HOST = os.getenv("HOST")
+        TEMPERATURE = os.getenv("TEMPERATURE")
 
         logger.info("Les environnements sont chargés avec succès")
     except Exception as e:

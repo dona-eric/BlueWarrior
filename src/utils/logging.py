@@ -22,7 +22,7 @@ def setup_logging():
                 'level': 'DEBUG',
                 'formatter': 'standard',
                 'class': 'logging.handlers.RotatingFileHandler',
-                'filename': 'app.log',
+                'filename': '/tmp/app.log',
                 'maxBytes': 1024 * 1024 * 5,
                 'backupCount': 5,
             }

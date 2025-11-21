@@ -35,9 +35,9 @@ app = FastAPI(
     title="BlueWarriors",
     description="API pour la prévention et l’accompagnement des hommes contre le cancer de la prostate",
     version="1.0.1",
-    docs_url="/api/v1/docs",
-    redoc_url="/api/v1/redoc",
-    openapi_url="/api/openapi.json",
+    docs_url="/v1/docs",
+    redoc_url="/v1/redoc",
+    openapi_url="/openapi.json",
     include_in_schema=True,
     contact={
         "Email":"donaerickoulodji@gmail.com",
@@ -178,4 +178,4 @@ def ask_question(question: Question):
         logger.error(f"Error during RAG chain invocation: {e}")
         raise HTTPException(status_code=500, detail="Error processing the request.")
  
-app.include_router(router, prefix="/api/v1")
+app.include_router(router, prefix="/v1")

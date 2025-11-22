@@ -200,9 +200,8 @@ def get_statistics_cancer():
         chargement des données (datasets de mortalkkity et de predictiion2050)
     """
     data_2050, data_2022_mortality = load_data()
-    df = preprocess_data_2050(load_data()[0])
+    df = preprocess_data_2050(data_2050)
 
-    # df = df.copy()
     result = {
         "sample": df.head(10).to_dict(orient="records"),
         "charts": {}

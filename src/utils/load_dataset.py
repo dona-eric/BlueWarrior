@@ -10,10 +10,10 @@ def load_data():
     data_2050 = pd.read_csv(DATA_PATH/file_1)
     data_2022_mortality = pd.read_csv(DATA_PATH/file_2)
     
-    return data_2022_mortality, data_2050
+    return data_2050, data_2022_mortality
     
         
-
+data_2050, data_2022_mortality = load_data()
 def preprocess_data_2050(data_2050):
     # Renommage des colonnes pour une meilleure lisibilité
     df = data_2050.rename(columns={

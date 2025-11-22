@@ -200,6 +200,8 @@ def get_statistics_cancer():
         chargement des données (datasets de mortalkkity et de predictiion2050)
     """
     data_2050, data_2022_mortality = load_data()
+    df = preprocess_data_2050(load_data()[0])
+
     # df = df.copy()
     result = {
         "sample": df.head(10).to_dict(orient="records"),
@@ -289,13 +291,13 @@ def get_statistics_cancer():
     #============== VISUALISATION AVEC DATA MORTALITY ===========
     
     # A = Evolution par année de la mortalité due au cancer de la prostate
-    data_year = data_2050.groupby('Year')['Number'].sum().reset_index()
+    data_year = data_2022_mortality.groupby('Year')['Number'].sum().reset_index()
     fig_year = px.line(data_year, x='Year', 
                        y='Number', title='Evolution de la mortalité due au cancer de la prostate par année')
     result["charts"]["evolution_annuelle"] = fig_to_json(fig_year)
     
     fig_region = px.bar(
-        data_2050.groupby("Region_Name")["Number"].sum().reset_index(),
+        data_2022_mortality.groupby("Region_Name")["Number"].sum().reset_index(),
         x="Region_Name",
         y="Number",
         title="Nombre de Décès par région"
@@ -303,7 +305,7 @@ def get_statistics_cancer():
     result["charts"]["deces_par_region"] = fig_to_json(fig_region)
     # === Visualisation 3 : death rate par pays ===
     fig_rate = px.choropleth(
-        data_2050,
+        data_2022_mortality,
         locations="Country_Name",
         locationmode="country names",
         color="Death_rate_per_100000",

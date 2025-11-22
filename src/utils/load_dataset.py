@@ -1,9 +1,11 @@
 import pandas as pd, os, sys, pathlib
+from pathlib import Path
 import logging
 
 
 #===================  FONCTION POUR CHARGMEMENT DES DONNÉES =============
-DATA_PATH = pathlib.Path(__file__).parent.parent.parent.parent / "backend/src/data/"
+BASE_DIR = Path(__file__).resolve().parent.parent  # src/utils → src
+DATA_PATH = BASE_DIR / "data"
 file_1 = "dataset_2050.csv"
 file_2 = "df_mortality_2019_2025.csv"
 def load_data():

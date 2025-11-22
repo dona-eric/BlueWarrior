@@ -17,7 +17,7 @@ import plotly.graph_objects as go
 setup_logging()
 logger= logging.getLogger("==============BLUE WARRIORS============")
 
-data_2050, data_2022_mortality = load_data()
+# data_2050, data_2022_mortality = load_data()
 df = preprocess_data_2050(load_data()[1])
 # ====================== FONCTION D'INITIALISATION DE LA CHAINE RAG=============
 RAG_CHAIN, RAG_ERROR = None, None

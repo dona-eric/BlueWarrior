@@ -7,12 +7,11 @@ DATA_PATH = pathlib.Path(__file__).parent.parent.parent.parent / "backend/src/da
 file_1 = "dataset_2050.csv"
 file_2 = "df_mortality_2019_2025.csv"
 def load_data():
-    try:
-        data_2050 = pd.read_csv(DATA_PATH/file_1)
-        data_2022_mortality = pd.read_csv(DATA_PATH/file_2)
-        return data_2022_mortality, data_2050
-    except Exception as e:
-        logging.error(f"erreur de chargement de fichier {e}")
+    data_2050 = pd.read_csv(DATA_PATH/file_1)
+    data_2022_mortality = pd.read_csv(DATA_PATH/file_2)
+    
+    return data_2022_mortality, data_2050
+    
         
 
 def preprocess_data_2050(data_2050):

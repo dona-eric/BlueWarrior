@@ -9,7 +9,7 @@ from src.rag_engine.pipeline_final import get_rag_chain
 from src.utils.logs import setup_logging
 from src.utils.load_dataset import load_data, preprocess_data_2050
 import os, logging
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import plotly.express as px, plotly.io as pio
 import plotly.graph_objects as go
 

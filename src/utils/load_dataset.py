@@ -15,7 +15,6 @@ def load_data():
         logging.error(f"erreur de chargement de fichier {e}")
         
 
-data_2050, data_2022_mortality = load_data()
 def preprocess_data_2050(data_2050):
     # Renommage des colonnes pour une meilleure lisibilité
     df = data_2050.rename(columns={
@@ -46,6 +45,6 @@ def preprocess_data_2050(data_2050):
 
         return df
 
-df = preprocess_data_2050(load_data()[1])
-print(df.head())
+# df = preprocess_data_2050(load_data()[1])
+# print(df.head())
 #print(data_2022_mortality.head())

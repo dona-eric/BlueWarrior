@@ -204,7 +204,8 @@ def get_statistics_cancer():
 
     result = {
         "sample": df.head(10).to_dict(orient="records"),
-        "charts": {}
+        "charts": {},
+        "updated":"2025"
     }
     
     # ========== VISUALISATION AVEC DATA 2050 PREDICTION ===========

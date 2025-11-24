@@ -9,6 +9,7 @@ from src.rag_engine.pipeline_final import get_rag_chain
 from src.utils.logs import setup_logging
 from src.utils.load_dataset import load_data, preprocess_data_2050
 import os, logging
+from contextlib import asynccontextmanager
 # import matplotlib.pyplot as plt
 import plotly.express as px, plotly.io as pio
 import plotly.graph_objects as go
@@ -22,24 +23,31 @@ df = preprocess_data_2050(load_data()[1])
 # ====================== FONCTION D'INITIALISATION DE LA CHAINE RAG=============
 RAG_CHAIN, RAG_ERROR = None, None
 
-def initial_rag_chain():
-    """
-    j'initialise la chaine rag en utilisant
-    """
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # === Démarrage ===
+    logger.info("Initialisation de la chaîne RAG au démarrage...")
     global RAG_CHAIN, RAG_ERROR
     try:
         RAG_CHAIN = get_rag_chain()
-        logger.info("RAG chain initialized successfully.")
+        logger.info("RAG chain initialisée avec succès !")
     except Exception as e:
         RAG_ERROR = str(e)
-        logger.error(f"Error initializing RAG chain: {e}")
-    
+        logger.critical(f"ÉCHEC CRITIQUE : RAG non disponible → {e}")
+
+    create_tables_db()
+    logger.info("Base de données initialisée")
+    yield
+
+    # === Arrêt ===
+    logger.info("Arrêt de l'API BlueWarriors")
 
 #======================== CREATION DE L'APPLICATION PRINCIPALE =================
 app = FastAPI(
     title="BlueWarriors",
     description="API pour la prévention et l’accompagnement des hommes contre le cancer de la prostate",
     version="1.0.1",
+    lifespan=lifespan,
     docs_url="/v1/docs",
     redoc_url="/v1/redoc",
     openapi_url="/openapi.json",
@@ -60,29 +68,35 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-create_tables_db()
-#================ FONCTION POUR L'APPEL DE RAG ENGINE ===========
 
-@app.on_event(event_type="startup")
-def startup_event():
-    logger.info(msg="initilisation de rag")
-    initial_rag_chain()
-    
-    
+
 # =================== UTILISATION DE ROUTEUR ==============
 router = APIRouter()
 
 
-#======LES ROUTES ==========
+#=====================
+# LES ROUTES API
+# ====================
+
+
+# ==================== ROUTER HEALTH CHECK ====================
+
 @router.get("/kaithhealthcheck", tags=["Health"])
 async def health_check():
-    return {"status": "ok"}
+    rag_status = "OK" if RAG_CHAIN else f"ERROR: {RAG_ERROR}"
+    return {
+        "status": "healthy",
+        "rag_chain": rag_status,
+        "database": "connected"
+    }
 
+# ==================== ROUTER PRINCIPAL ====================
 
 @router.get("/", tags=["Root"])
 async def root():
     return {"message": "Welcome on BlueWarriors"}
 
+# ==================== ROUTER USERS ET PATIENTS ====================
 
 @router.post("/user/",  response_model=UserRead, tags=["User"])
 async def create_user(user: UserCreate,  db: SessionDeep):
@@ -150,7 +164,8 @@ async def get_patient_id(id_patient: str, db: SessionDeep):
     else:
         return patient_id
   
-    
+# ==================== ROUTER CHATBOT RAG ====================
+
 @router.post("/ask/", tags=["RAG Chatbot"])
 def ask_question(question: Question):
     """Endpoint principal du chatbot RAG."""
@@ -160,10 +175,11 @@ def ask_question(question: Question):
     #RAG_CHAIN = initial_rag_chain()
     
     """Je verifie d'abord si la chaine RAG est initialisée correctement"""
-    if RAG_CHAIN is None:
-        logger.error("RAG chain is not initialized.")
-        raise HTTPException(status_code=500, detail="RAG chain is not initialized.")
-    
+    if not RAG_CHAIN:
+        raise HTTPException(
+            status_code=503,
+            detail="WarriorAI est temporairement indisponible. Réessayez dans quelques minutes."
+        )
     try:
         response = RAG_CHAIN.invoke(
             {

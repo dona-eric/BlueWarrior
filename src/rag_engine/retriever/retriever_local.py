@@ -1,5 +1,4 @@
 # Fichier: retriever_local.py
-# ... (vos imports)
 from langchain_pinecone import PineconeVectorStore, PineconeEmbeddings
 from langchain_openai import OpenAIEmbeddings
 from langchain_core.retrievers import BaseRetriever

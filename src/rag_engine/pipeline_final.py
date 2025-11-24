@@ -50,6 +50,9 @@ class CustomEnsembleRetriever(BaseRetriever):
     """
     retriever_local: BaseRetriever = Field(...)
     retriever_web: BaseRetriever = Field(...)
+    k: int = Field(default=6, description="Nombre total de documents à retourner")
+    local_weight: float = Field(default=1.0)
+    web_weight: float = Field(default=0.8)
 
     class Config:
         arbitrary_types_allowed = True
@@ -66,17 +69,30 @@ class CustomEnsembleRetriever(BaseRetriever):
              local_docs = self.retriever_local.invoke(query)
              web_docs = self.retriever_web.invoke(query)
         
-        # 2. Fusionner les listes
-        all_docs = local_docs + web_docs
-        
-        # 3.# On utilise un dictionnaire pour garder les documents uniques
-        # basé sur leur contenu (page_content)
-        unique_docs = {}
-        for doc in all_docs:
-            if doc.page_content not in unique_docs:
-                unique_docs[doc.page_content] = doc
-        
-        return list(unique_docs.values())
+        docs_with_score = []
+
+        for rank, doc in enumerate(local_docs, 1):
+            doc.metadata["source_type"] = "local"
+            docs_with_score.append((doc, self.local_weight / (rank + 60)))  # 60 = k pour éviter division par zéro
+
+        for rank, doc in enumerate(web_docs, 1):
+            doc.metadata["source_type"] = "web"
+            docs_with_score.append((doc, self.web_weight / (rank + 60)))
+
+        # Tri par score RRF
+        docs_with_score.sort(key=lambda x: x[1], reverse=True)
+
+        # Déduplication finale + limite
+        seen_content = set()
+        final_docs = []
+        for doc, _ in docs_with_score:
+            content_hash = hash(doc.page_content[:500])  # hash sur début pour éviter faux négatifs
+            if content_hash not in seen_content and len(final_docs) < self.k:
+                seen_content.add(content_hash)
+                final_docs.append(doc)
+
+        logger.info(f"RRF fusion → {len(local_docs)} local + {len(web_docs)} web → {len(final_docs)} finaux")
+        return final_docs
 
 def get_env_or_config(config, section, key):
     """Retourne la valeur depuis l'environnement si présente, sinon depuis config.ini"""
@@ -112,9 +128,11 @@ def get_rag_chain():
         )
     
     retriever_web = build_search_web(
-        k_retriever=3,
-        tavily_api_key=TAVILY_API_KEY
-        )
+        k_retriever=4,
+        tavily_api_key=TAVILY_API_KEY,
+        include_raw_content=True,
+        include_domains=["gouv.fr", "sante.fr", "inca.fr", "cancer.fr", "who.int"]
+    )
 
     """ 
     Je combine ici les deux retrievers pour bénéficier à la fois des documents locaux
@@ -131,18 +149,23 @@ def get_rag_chain():
     )
 
     """================ Template de prompt personnalisé ================"""
-    template = """
-    Tu es un assistant médical spécialisé dans la prévention du cancer de la prostate.
-    Réponds avec précision, pédagogie et bienveillance.
-    Si tu n’es pas sûr d’une réponse, indique-le clairement.
+    template = """Tu es un assistant médical expert en oncologie, spécialisé dans le cancer de la prostate et les cancers en général.
 
-    Question utilisateur : {question}
+RÈGLES STRICTES :
+- Tu ne réponds QUE sur le cancer (prostate, sein, poumon, etc.) et la prévention associée.
+- Si la question est hors sujet (ex: politique, cuisine, blague), réponds : "Je suis spécialisé dans le cancer et la prévention. Je ne peux pas répondre à cette question."
+- Toujours citer tes sources à la fin.
+- Réponses claires, empathiques, pédagogiques.
+- Jamais d'affirmation sans preuve.
+- En cas de doute : "Je vous recommande de consulter un médecin."
 
-    Contexte (documents) :
-    {context}
+Question : {question}
 
-    Réponse :
-    """
+Contexte vérifié :
+{context}
+
+Réponse structurée :
+"""
     prompt = PromptTemplate(
         template=template,
         input_variables=
@@ -156,14 +179,18 @@ def get_rag_chain():
     """
     Ensemble_Retriever = CustomEnsembleRetriever(
         retriever_local=retriever_local,
-        retriever_web=retriever_web
+        retriever_web=retriever_web,
+        k=6,
+        local_weight=1.0,   # priorité au savoir interne validé
+        web_weight=0.9
     )
     rag_chain = RetrievalQA.from_chain_type(
         llm=model_llm,
         chain_type="stuff",
-        retriever= Ensemble_Retriever,
+        retriever=Ensemble_Retriever,
         return_source_documents=True,
         chain_type_kwargs={"prompt": prompt},
+        verbose=True
     )   
 
     return rag_chain

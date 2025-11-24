@@ -6,7 +6,7 @@ import os, dotenv, logging
 logger = logging.getLogger("========= RETRIEVER WEB BUILD===========")
 TAVILY_API_KEY= os.getenv("TAVILY_API_KEY")
 
-def build_search_web(k_retriever: int = 3, tavily_api_key: str=None)-> BaseRetriever:
+def build_search_web(k_retriever: int = 4, tavily_api_key: str=None)-> BaseRetriever:
     """
     Utilise TailvyRetriever pour effectuer une recherche web, 
     
